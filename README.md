@@ -2,6 +2,7 @@
 
 + Adrian Osuna
 + Miguel Saldivar
++ Kyle Lee
 
 ## To run the web application
 ```
